@@ -1,16 +1,15 @@
-# internshipapp
+# Internship Task
 
-A new Flutter application.
+<h2 align= "left"><b>Project Description</b></h2>
+An App that scrolls through pages and in a verticle fashion and shows pages on a single screen with news images , title and descripton.
 
-## Getting Started
+<h2 align= "left"><b>How To Use</b></h2>
+Download the app from the link provided in the next section and open the app.Go through the app in a verticle fashion from top to bottom.It shows articles and titles in a single screen. 
 
-This project is a starting point for a Flutter application.
+<h2 align= "left"><b>Download the APK</b></h2>
+Google Drive: https://bit.ly/3vDXbaG
 
-A few resources to get you started if this is your first Flutter project:
+<h2 align= "left"><b>Tech Stack Used</b></h2>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Flutter  
+  </h4></a>
