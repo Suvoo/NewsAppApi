@@ -1,2 +1,2 @@
-# HacktoberFestApp
-Add Flutter Projects For HacktoberFest
+# NewsApp
+NewsApp Project Added
